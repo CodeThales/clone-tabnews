@@ -1,4 +1,11 @@
 function Home(){
-    return <h1>Oi gatinha linda do meu coração. Se vc já deu a bUnd1nh@, dá uma risadinha!</h1>
+     
+    return <>
+        <h1>Oi minha linda</h1>
+        <strong>Sou feliz por ter te encontrado</strong>
+        <p>E quero sempre estar com você</p>
+        <p>TE AMO!!!</p>
+    </>;    
+    
 }
 export default Home;
