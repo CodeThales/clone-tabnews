@@ -1,3 +1,4 @@
+import React from 'react';
 function Home() {
   return (
     <>
@@ -6,7 +7,8 @@ function Home() {
       <p>E quero sempre estar com você</p>
       <p>TE AMO!!!</p>
       <span>Thales</span>
-    </>
+      </>
   );
 }
+
 export default Home;
